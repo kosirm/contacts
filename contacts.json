@@ -1,0 +1,37 @@
+{
+	"contact": [
+		{
+			"name": "Milan",
+			"phoneNumber": [
+				{
+					"name": "Mobile",
+					"telephone": "+385 95 359 0770"
+				}
+			],
+			"emailAddress": [
+				{
+					"name": "Email",
+					"email": "kosir.milan@gmail.com"
+				}
+			]
+		},
+		{
+			"picture": "https://pbs.twimg.com/profile_images/584963092120899586/TxkxQ7Y5_400x400.png",
+			"name": "Lea Verou",
+			"affiliation": "MIT CSAIL",
+			"phoneNumber": [
+				{
+					"name": "Mobile",
+					"telephone": "555-123-4567"
+				}
+			],
+			"emailAddress": [
+				{
+					"name": "Email",
+					"email": "leaverou@mit.edu"
+				}
+			]
+		}
+	],
+	"@context": "http://schema.org/"
+}
